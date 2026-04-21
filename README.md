@@ -7,39 +7,25 @@ This project focuses on analyzing Air Quality Index (AQI) data across different 
 Air pollution is a critical environmental issue, especially in urban regions. This project transforms raw AQI data into meaningful insights through data analysis and interactive visualizations.
 
 The dashboard provides:
-
 A clear view of overall air quality conditions
-
 Identification of most polluted cities and regions
-
 Analysis of AQI category distribution
-
 Understanding of dominant pollutants (e.g., PM2.5)
-
 Trends in air quality over time
 
 Features
 Interactive Dashboard built using Power BI
-
 KPI Metrics such as Average AQI and Maximum AQI
-
 Top Polluted Cities Analysis
-
 Geographical AQI Visualization
-
 AQI Category Distribution (Good → Hazardous)
-
 Time-Series Analysis of AQI trends
-
 Dynamic Filters (Year, State, City)
 
 Tools & Technologies
 Power BI
-
 Data Analysis
-
 Data Visualization
-
 AQI Dataset
 
 
